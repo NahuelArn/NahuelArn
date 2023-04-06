@@ -38,7 +38,7 @@ Soy Nahuel Arancibia, estudio la carrera de analista programador en la Univesida
   
 <h2 align="center" >Connect with me </h2> 
 <div align="center">
-  <a href="https://twitter.com/iamrishavanand" target="_blank">
+  <a href="https://twitter.com/NahuelArn" target="_blank">
   <img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
   </a>
   <a href="https://linkedin.com/in/sarasara21dasd1as" target="_blank">
