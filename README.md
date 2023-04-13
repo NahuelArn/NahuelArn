@@ -35,9 +35,11 @@ Soy Nahuel Arancibia, estudio la carrera de analista programador en la Univesida
 </div>
 </td></tr></table>
 
+
+ <h2 align="center" > </h2>
  <!-- Contact-->
 
-<h2 align="center" >Connect with me </h2> 
+<!-- <h2 align="center" >Connect with me </h2> 
 <div align="center">
   <a href="https://twitter.com/NahuelArn" target="_blank">
   <img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
@@ -45,11 +47,11 @@ Soy Nahuel Arancibia, estudio la carrera de analista programador en la Univesida
   <a href="https://linkedin.com/in/sarasara21dasd1as" target="_blank">
   <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
   </a>  
-</div> 
+</div>  -->
 
  <!--ComponentGraficos -->
 
-<br>
+<!-- <br> -->
 <div align="center"
   <p>
     <img width="50%" height= "220px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NahuelArn&langs_count=10&theme=tokyonight&layout=compact"/>  
@@ -59,7 +61,7 @@ Soy Nahuel Arancibia, estudio la carrera de analista programador en la Univesida
   align="center"><img src="https://github-readme-stats.vercel.app/api?username=nahuelArn&show_icons=true&count_private=true&hide_border=true" align="center" />
 </div>   -->
 
-<br>
+<!-- <br> -->
 
  <!--ComponentAnimation -->
 <p align="center">
