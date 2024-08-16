@@ -72,7 +72,9 @@ Soy Nahuel Arancibia, estudio la carrera de analista programador en la Univesida
 
  <!--ComponentAnimation Card -->
 <p align="center">
+<a href="https://nahuelarn.github.io/ConversorDolarBlue/">  
   <img src= "https://media0.giphy.com/media/CBuiG6DUCrZwXaAr5S/giphy.webp?cid=dda24d507bd759b983eb79d8a5e67cdb2b12d838bfb9dc3f&rid=giphy.webp&ct=s" autoplay width="8%" height= "8%"/>
+  </a>
 <!--   <img src= "https://media4.giphy.com/media/8N6KVgh56bz74pxlQa/giphy.webp?cid=dda24d503e732c4639fca9ec5a1938972a3db4c9b88cb850&rid=giphy.webp&ct=g" autoplay width="12%" height= "12%" autoplay loop /> -->
 
  <!--ComponentLed Line-->
