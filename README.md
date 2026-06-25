@@ -1,8 +1,93 @@
+<h2 align="center">Primer año Licenciatura en Sistemas</h2>
+
+<div>
+<div align="center">
+
+<a href="https://github.com/NahuelArn/Conceptos-de-Algoritmos-Datos-y-Programas">
+  <img width="270" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Giancardonee&amp;repo=CADP&amp;theme=github_dark&amp;border_color=1F6FEB&amp;bg_color=0D1117&amp;icon_color=58A6FF&amp;show_icons=false" alt="Repo de CADP">
+</a>
+
+<a href="https://github.com/NahuelArn/Paradigmas-De-Programacion">
+  <img width="270" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Giancardonee&amp;repo=Taller-De-Programacion&amp;theme=github_dark&amp;border_color=1F6FEB&amp;bg_color=0D1117&amp;icon_color=58A6FF&amp;show_icons=false" alt="Repo de Taller">
+</a>
+
+<a href="https://github.com/Giancardonee/Arquitectura-De-Computadoras">
+  <img width="270" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Giancardonee&amp;repo=Arquitectura-De-Computadoras&amp;theme=github_dark&amp;border_color=1F6FEB&amp;bg_color=0D1117&amp;icon_color=58A6FF&amp;show_icons=false" alt="Repo Arquitectura">
+</a>
+
+<a href="https://github.com/NahuelArn/Organizacion-de-Computadoras">
+  <img width="270" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Giancardonee&amp;repo=Organizacion-de-Computadoras&amp;theme=github_dark&amp;border_color=1F6FEB&amp;bg_color=0D1117&amp;icon_color=58A6FF&amp;show_icons=false" alt="Repo Organización">
+</a>
+
+
+<h2 align="center">Segundo año Licenciatura en Sistemas</h2>
+
+
+<a href="https://github.com/NahuelArn/Fundamentos-De-Organizacion-De-Datos-FOD">
+<img width="270" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Giancardonee&amp;repo=FOD&amp;theme=github_dark&amp;border_color=1F6FEB&amp;bg_color=0D1117&amp;icon_color=58A6FF&amp;show_icons=false">
+</a>
+
+
+<a href="https://github.com/NahuelArn/Algoritmos-Y-Estructura-De-Datos-AYED">
+<img width="270" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Giancardonee&amp;repo=AyED&amp;theme=github_dark&amp;border_color=1F6FEB&amp;bg_color=0D1117&amp;icon_color=58A6FF&amp;show_icons=false">
+</a>
+
+
+<a href="https://github.com/NahuelArn/Seminario-De-Lenguajes-Rust">
+<img width="270" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Giancardonee&amp;repo=Seminario-.NET&amp;theme=github_dark&amp;border_color=1F6FEB&amp;bg_color=0D1117&amp;icon_color=58A6FF&amp;show_icons=false">
+</a>
+
+
+<a href="https://github.com/NahuelArn/Ingenieria-De-Software-1-ING1">
+<img width="270" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Giancardonee&amp;repo=INGE1&amp;theme=github_dark&amp;border_color=1F6FEB&amp;bg_color=0D1117&amp;icon_color=58A6FF&amp;show_icons=false">
+</a>
+
+
+<a href="https://github.com/NahuelArn/Orientacion-A-Objetos-1-OO1">
+<img width="270" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Giancardonee&amp;repo=OO1&amp;theme=github_dark&amp;border_color=1F6FEB&amp;bg_color=0D1117&amp;icon_color=58A6FF&amp;show_icons=false">
+</a>
+
+
+<a href="https://github.com/NahuelArn/Bases-De-Datos-DBD">
+<img width="270" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Giancardonee&amp;repo=DBD&amp;theme=github_dark&amp;border_color=1F6FEB&amp;bg_color=0D1117&amp;icon_color=58A6FF&amp;show_icons=false">
+</a>
+
+
+<a href="https://github.com/NahuelArn/Sistemas-Operativos-ISO">
+<img width="270" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Giancardonee&amp;repo=ISO&amp;theme=github_dark&amp;border_color=1F6FEB&amp;bg_color=0D1117&amp;icon_color=58A6FF&amp;show_icons=false">
+</a>
+
+
+<h2 align="center">Tercer año Licenciatura en Sistemas</h2>
+
+
+<a href="https://github.com/NahuelArn/Orientacion-A-Objetos-2-OO2">
+<img width="270" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Giancardonee&amp;repo=OO2&amp;theme=github_dark&amp;border_color=1F6FEB&amp;bg_color=0D1117&amp;icon_color=58A6FF&amp;show_icons=false">
+</a>
+
+
+<a href="https://github.com/NahuelArn/CPLP">
+<img width="270" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Giancardonee&amp;repo=CPLP&amp;theme=github_dark&amp;border_color=1F6FEB&amp;bg_color=0D1117&amp;icon_color=58A6FF&amp;show_icons=false">
+</a>
+
+
+<a href="https://github.com/NahuelArn/Base-de-datos-1">
+<img width="270" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Giancardonee&repo=BD1&theme=github_dark&border_color=1F6FEB&bg_color=0D1117&icon_color=58A6FF&show_icons=false">
+</a>
+
+
+<a href="https://github.com/NahuelArn/Programacion-Concurrente-">
+<img width="270" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Giancardonee&repo=CONCU&theme=github_dark&border_color=1F6FEB&bg_color=0D1117&icon_color=58A6FF&show_icons=false">
+</a>
+
+
+
+<!--
 <p align="center">
 <!--   <img src= "https://media1.tenor.com/m/pMhSj9NfCXsAAAAd/saul-goodman-better-call-saul.gif" autoplay alt="Descripción de la imagen">  -->
-  <img src= "https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExMnVqOTNiaGdpMTJ0ajVodmpkaWRjMGsxd296bDlkbmprbXI4NnZvMyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/MCWzaCPShWEZ0FfSHA/giphy.webp" autoplay alt="Descripción de la imagen"> 
+  <!--<img src= "https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExMnVqOTNiaGdpMTJ0ajVodmpkaWRjMGsxd296bDlkbmprbXI4NnZvMyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/MCWzaCPShWEZ0FfSHA/giphy.webp" autoplay alt="Descripción de la imagen"> 
 </p>
-
+-->
 
 
 <!-- 
