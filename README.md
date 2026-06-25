@@ -82,7 +82,13 @@
 <img width="270" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Giancardonee&repo=CONCU&theme=github_dark&border_color=1F6FEB&bg_color=0D1117&icon_color=58A6FF&show_icons=false">
 </a>
 
+<a href="https://github.com/NahuelArn/Forensia">
+<img width="270" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=NahuelArn&amp;repo=Forensia&amp;theme=github_dark&amp;border_color=1F6FEB&amp;bg_color=0D1117&amp;icon_color=58A6FF&amp;show_icons=false" alt="Repo de Forensia">
+</a>
 
+<a href="https://github.com/NahuelArn/CloudComputingYCloudRoboticsCCCR">
+<img width="270" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=NahuelArn&amp;repo=CloudComputingYCloudRoboticsCCCR&amp;theme=github_dark&amp;border_color=1F6FEB&amp;bg_color=0D1117&amp;icon_color=58A6FF&amp;show_icons=false" alt="Repo de Cloud Computing y Cloud Robotics CCCR">
+</a>
 
 <!--
 <p align="center">
