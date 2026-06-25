@@ -4,7 +4,7 @@
 <div align="center">
 
 <a href="https://github.com/NahuelArn/Conceptos-de-Algoritmos-Datos-y-Programas">
-  <img width="270" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Giancardonee&amp;repo=CADP&amp;theme=github_dark&amp;border_color=1F6FEB&amp;bg_color=0D1117&amp;icon_color=58A6FF&amp;show_icons=false" alt="Repo de CADP">
+  <img width="270" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=NahuelArn&amp;repo=Conceptos-de-Algoritmos-Datos-y-Programas&amp;theme=github_dark&amp;border_color=1F6FEB&amp;bg_color=0D1117&amp;icon_color=58A6FF&amp;show_icons=false" alt="Repo de CADP">
 </a>
 
 <a href="https://github.com/NahuelArn/Paradigmas-De-Programacion">
