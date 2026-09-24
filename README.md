@@ -14,7 +14,7 @@
   <img width="270" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Giancardonee&amp;repo=Taller-De-Programacion&amp;theme=github_dark&amp;border_color=1F6FEB&amp;bg_color=0D1117&amp;icon_color=58A6FF&amp;show_icons=false" alt="Repo de Taller">
 </a>
 
-<a href="https://github.com/Giancardonee/Arquitectura-De-Computadoras">
+<a href="https://github.com/NahuelArn/Arquitectura-de-Computadoras">
   <img width="270" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Giancardonee&amp;repo=Arquitectura-De-Computadoras&amp;theme=github_dark&amp;border_color=1F6FEB&amp;bg_color=0D1117&amp;icon_color=58A6FF&amp;show_icons=false" alt="Repo Arquitectura">
 </a>
 
